@@ -1,1 +1,3 @@
 This is my amazing text document in Github version control application tutorial.
+I am so happy to be part of this professional version control software tool
+for expert driven system application development.
